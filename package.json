@@ -12,7 +12,8 @@
     "README.md"
   ],
   "scripts": {
-    "test": "node --test --test-isolation=none",
+    "test": "node --test",
+    "test:install": "node --test test/install.test.mjs",
     "pack:check": "npm pack --dry-run"
   },
   "publishConfig": {
