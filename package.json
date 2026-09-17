@@ -1,0 +1,25 @@
+{
+  "name": "@tanlifei/agent-workflow",
+  "version": "0.1.1",
+  "description": "适用于 Codex、Claude Code 和 Trae 的个人 Agent 规则与技能",
+  "type": "module",
+  "bin": {
+    "agent-workflow": "bin/agent-workflow.mjs"
+  },
+  "files": [
+    "bin/",
+    "templates/",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node --test --test-isolation=none",
+    "pack:check": "npm pack --dry-run"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

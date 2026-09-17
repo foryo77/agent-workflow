@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": "0.1.1",
+  "files": {
+    ".agents/skills/workflow-retro/SKILL.md": "83ed1cb72be4110fe63e19a5be2213aefe3015934c325c94c14f2d7b29389be8",
+    ".claude/skills/workflow-retro/SKILL.md": "83ed1cb72be4110fe63e19a5be2213aefe3015934c325c94c14f2d7b29389be8",
+    ".trae/rules/agent-workflow.md": "c483ecf4bb541d04249a338dd3a1db5e5d30ca80969ffeafa735b97ea2ce0049",
+    ".trae/skills/workflow-retro/SKILL.md": "83ed1cb72be4110fe63e19a5be2213aefe3015934c325c94c14f2d7b29389be8"
+  }
+}
